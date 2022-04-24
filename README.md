@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://richardson-05.github.io/Checkout-page-master/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/richardson-05/Checkout-page-master">
       Solution
     </a>
     <span> | </span>
@@ -34,22 +34,22 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/richardson-05/Checkout-page-master/blob/main/subir1.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
+
 - Where can I see your demo?
+You can see my demo <a href="https://richardson-05.github.io/Checkout-page-master/">Clicking here</a>.
+
 - What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+My experience doing this project was something special because this is the second challenge that I do of this type.
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+I did not use any framework, only HTML and CSS.
 
 ## Features
 
@@ -57,32 +57,16 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/0J1NxxGhOUYVqihwegfO) was to build an application to complete the given user stories.
 
-
-## How To Use
-
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
-
-```bash
-# Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
-
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
-```
-
 ## Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+- [Google fonts](https://fonts.google.com/)
+- [Font Awesome](https://fontawesome.com/)
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- LinkedIn [Richardson Mercedes](https://www.linkedin.com/in/richardson-mercedes-ab84241ab/)
+- GitHub [@richardson-05](https://github.com/richardson-05)
+- Twitter [@RichardsonMerc2](https://twitter.com/RichardsonMerc2)
+- Instagram [@_richardson_mercedes_](https://www.instagram.com/_richardson_mercedes_/)
